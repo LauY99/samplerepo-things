@@ -1,4 +1,5 @@
 circle
 rectangle
 square
-triangle
+hexagon
+
